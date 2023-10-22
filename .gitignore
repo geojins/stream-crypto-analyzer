@@ -1,0 +1,6 @@
+notes.txt
+.vscode
+debug.log
+*venv*
+*__pycache__
+derby.log
